@@ -7,4 +7,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://https://damnshi.github.io/geo-demo/sitemap.xml
+Sitemap: https://damnshi.github.io/geo-demo/sitemap.xml

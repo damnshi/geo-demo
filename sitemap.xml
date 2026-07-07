@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://https://damnshi.github.io/geo-demo/</loc>
+    <loc>https://damnshi.github.io/geo-demo/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://https://damnshi.github.io/geo-demo/faq.html</loc>
+    <loc>https://damnshi.github.io/geo-demo/faq.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://https://damnshi.github.io/geo-demo/llms.txt</loc>
+    <loc>https://damnshi.github.io/geo-demo/llms.txt</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://https://damnshi.github.io/geo-demo/ai/overview.md</loc>
+    <loc>https://damnshi.github.io/geo-demo/ai/overview.md</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://https://damnshi.github.io/geo-demo/ai/agent-guidelines.md</loc>
+    <loc>https://damnshi.github.io/geo-demo/ai/agent-guidelines.md</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://https://damnshi.github.io/geo-demo/ai/source-pages.md</loc>
+    <loc>https://damnshi.github.io/geo-demo/ai/source-pages.md</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
