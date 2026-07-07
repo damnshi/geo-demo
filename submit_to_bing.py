@@ -59,7 +59,7 @@ def selfcheck_key_file(key_location: str) -> bool:
         print(f"  期望内容: {INDEXNOW_KEY!r}")
         print("  key 文件还没部署成功，先 push 再等 1~2 分钟。")
         return False
-    print("  key 文件自检通过 ✓")
+        print("  key 文件自检通过 [OK]")
     return True
 
 
