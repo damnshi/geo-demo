@@ -40,6 +40,8 @@ URLS = [
     f"{SITE_BASE}/ai/overview.md",
     f"{SITE_BASE}/ai/agent-guidelines.md",
     f"{SITE_BASE}/ai/source-pages.md",
+    f"{SITE_BASE}/experiment/d3/kadenz-f1-price.html",
+    f"{SITE_BASE}/experiment/d3/kadenz-f2-spec.html",
 ]
 
 
