@@ -12,5 +12,7 @@
 | 品牌概览 | /ai/overview.md | Agent 可读产品概览 |
 | 回答边界 | /ai/agent-guidelines.md | Agent 引用与禁止推断规则 |
 | 页面索引 | /ai/source-pages.md | 本文件 |
+| D3-F1 指纹页 | /experiment/d3/kadenz-f1-price.html | 水月雨 Kadenz 参考价999；标记 GEO指纹D3F1-20260720 |
+| D3-F2 指纹页 | /experiment/d3/kadenz-f2-spec.html | 水月雨 Kadenz 32Ω；标记 GEO指纹D3F2-20260720 |
 
 正式产品入口：https://geo.thinkive.com/
